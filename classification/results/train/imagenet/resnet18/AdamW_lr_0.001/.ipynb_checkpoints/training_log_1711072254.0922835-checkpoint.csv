@@ -1,0 +1,2 @@
+epoch,train_loss,train_acc1,train_acc5,val_acc1,val_acc5,best_acc1,best_acc5,optimizer
+0,4.8720052463786825,12.015910481625912,27.422476989365734,25.088,49.094,25.088,49.094,"AdamW , lr = 0.001, wd = 0.01"

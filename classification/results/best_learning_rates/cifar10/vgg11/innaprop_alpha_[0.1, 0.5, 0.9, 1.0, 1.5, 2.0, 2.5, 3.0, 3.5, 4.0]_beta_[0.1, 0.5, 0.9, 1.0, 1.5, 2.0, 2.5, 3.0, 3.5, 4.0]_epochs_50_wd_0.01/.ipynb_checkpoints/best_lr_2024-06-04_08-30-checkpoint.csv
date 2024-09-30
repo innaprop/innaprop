@@ -1,0 +1,2 @@
+alpha,beta,lr,weight_decay,train_loss,test_acc,train_acc
+0.1,0.1,0.001,0.01,0.13076045814597484,86.51,91.288

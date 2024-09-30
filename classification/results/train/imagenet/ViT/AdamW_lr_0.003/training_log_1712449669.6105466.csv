@@ -1,0 +1,1 @@
+epoch,train_loss,train_acc1,train_acc5,val_acc1,val_acc5,best_acc1,best_acc5,optimizer

@@ -1,0 +1,2 @@
+epoch,train_loss,train_acc1,train_acc5,val_acc1,val_acc5,best_acc1,best_acc5,optimizer
+0,4.736276414511087,14.49177625397751,30.44971463501408,33.366,58.3,33.366,58.3,"INNAprop, ($\alpha$, $\beta$)= (0.1,0.9), lr = 0.001, wd = 0.0001"
